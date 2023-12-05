@@ -72,7 +72,8 @@ main{
 
 .contenuto-sezioni{
     font-size: 0.7em;
-    margin-bottom: 8px;
+    margin-bottom: 10px;
+    font-weight: bold;
 }
 
 .editoriale {
