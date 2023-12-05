@@ -70,6 +70,25 @@ main{
     margin-bottom: 8px;
 }
 
+.spunta{
+    color: rgb(31, 189, 52);
+    background-color:white;
+    border-radius: 50%;
+    border: solid rgb(31, 189, 52) 1px;
+    padding: 2px;
+    margin-bottom: 8px;
+    font-size: 0.3em;
+}
+
+.croce{
+    color: rgb(189, 31, 31);
+    background-color:white;
+    border-radius: 50%;
+    border: solid rgb(189, 31, 31) 1px;
+    padding: 2px;
+    margin-bottom: 8px;
+    font-size: 0.3em;
+}
 .contenuto-sezioni{
     font-size: 0.7em;
     margin-bottom: 10px;
