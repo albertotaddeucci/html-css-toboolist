@@ -57,3 +57,25 @@ main{
     padding: 5px;
     font-size: 0.5em;    
 }
+
+#new-task{
+    padding-left: 50px;
+    padding-top: 25px;
+}
+
+.sezioni{
+    font-weight: bold;
+}
+.contenuto-sezioni{
+    font-size: 0.7em;
+}
+
+.editoriale {
+    font-size: 0.5em;
+    color: white;
+    background-color: blue;
+    border-radius: 8px;
+    border: solid blue 3px;
+    padding: 2px;
+    
+}
