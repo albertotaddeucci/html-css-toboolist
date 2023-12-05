@@ -1,9 +1,13 @@
 *{box-sizing: border-box;
 margin: 0;
 }
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
 header{
     padding: 10px 20px;
-    font-family: Arial, Helvetica, sans-serif;
+    
     
 }
 
@@ -29,5 +33,27 @@ main{
     width: 700px;
     height: 500px;
     margin: auto;
-    
+}
+
+#pulsanti{
+    padding: 10px 30px 10px;
+    border-bottom: 2px solid rgb(227, 215, 215);
+}
+#tasto-task{
+    display: inline-block;
+    color: white;
+    background-color: rgb(44, 138, 201);
+    border-radius: 3px;
+    border: 1px solid rgb(44, 138, 201);
+    padding: 5px;
+    font-size: 0.5em;
+}
+#tasto-section{
+    display: inline-block;
+    color: grey;
+    background-color: rgb(255, 255, 255);
+    border-radius: 3px;
+    border: 1px solid gray;
+    padding: 5px;
+    font-size: 0.5em;    
 }
