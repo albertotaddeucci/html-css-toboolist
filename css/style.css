@@ -122,3 +122,28 @@ main{
     margin-bottom: 8px;
     
 }
+
+#upcoming{
+    padding-left: 50px;
+    padding-top: 15px;
+}
+.website {
+    font-size: 0.5em;
+    color: white;
+    background-color: rgb(255, 196, 0);
+    border-radius: 8px;
+    border: solid rgb(255, 196, 0) 3px;
+    padding: 2px;
+    margin-bottom: 8px;
+    
+}
+.sales {
+    font-size: 0.5em;
+    color: white;
+    background-color: rgb(255, 196, 0);
+    border-radius: 8px;
+    border: solid rgb(255, 196, 0) 3px;
+    padding: 2px;
+    margin-bottom: 8px;
+    
+}
