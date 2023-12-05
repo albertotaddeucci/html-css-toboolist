@@ -7,8 +7,7 @@ body{
 }
 header{
     padding: 10px 20px;
-    
-    
+        
 }
 
 img{
@@ -22,7 +21,7 @@ h1{
 }
 
 main{
-    background-color: rgb(227, 215, 215);
+    background-color: #f6f8f9;
     padding-top: 30px;
     padding-bottom: 10px;
 }
@@ -36,27 +35,26 @@ main{
     margin: auto;
 }
 
-
 /* sistemare colore */
 #pulsanti{
     padding: 10px 30px 10px;
-    border-bottom: 2px solid rgb(227, 215, 215);
+    border-bottom: 2px solid #f6f8f9;
 }
 #tasto-task{
     display: inline-block;
     color: white;
-    background-color: rgb(44, 138, 201);
+    background-color: #47adf1;
     border-radius: 3px;
-    border: 1px solid rgb(44, 138, 201);
+    border: 1px solid #47adf1;
     padding: 5px;
     font-size: 0.5em;
 }
 #tasto-section{
     display: inline-block;
-    color: grey;
+    color: #d3d7db;
     background-color: rgb(255, 255, 255);
     border-radius: 3px;
-    border: 1px solid gray;
+    border: 1px solid #d3d7db;
     padding: 5px;
     font-size: 0.5em;    
 }
@@ -80,9 +78,9 @@ main{
 .editoriale {
     font-size: 0.5em;
     color: white;
-    background-color: blue;
+    background-color: #47adf1;
     border-radius: 8px;
-    border: solid blue 3px;
+    border: solid #47adf1;
     padding: 2px;
     margin-bottom: 8px;
     
@@ -95,9 +93,9 @@ main{
 .goals {
     font-size: 0.5em;
     color: white;
-    background-color: rgb(255, 0, 217);
+    background-color: #9c72e4;
     border-radius: 8px;
-    border: solid rgb(255, 0, 217) 3px;
+    border: solid #9c72e4 3px;
     padding: 2px;
     margin-bottom: 8px;
     
@@ -105,9 +103,9 @@ main{
 .recruiting {
     font-size: 0.5em;
     color: white;
-    background-color: rgb(35, 183, 67);
+    background-color: #64c0a9;
     border-radius: 8px;
-    border: solid rgb(35, 183, 67) 3px;
+    border: solid #64c0a9 3px;
     padding: 2px;
     margin-bottom: 8px;
     
@@ -115,9 +113,9 @@ main{
 .mobile {
     font-size: 0.5em;
     color: white;
-    background-color: rgb(255, 196, 0);
+    background-color: #f29e33;
     border-radius: 8px;
-    border: solid rgb(255, 196, 0) 3px;
+    border: solid #f29e33 3px;
     padding: 2px;
     margin-bottom: 8px;
     
@@ -130,9 +128,9 @@ main{
 .website {
     font-size: 0.5em;
     color: white;
-    background-color: rgb(255, 196, 0);
+    background-color: #d863a1;
     border-radius: 8px;
-    border: solid rgb(255, 196, 0) 3px;
+    border: solid #d863a1 3px;
     padding: 2px;
     margin-bottom: 8px;
     
@@ -140,9 +138,9 @@ main{
 .sales {
     font-size: 0.5em;
     color: white;
-    background-color: rgb(255, 196, 0);
+    background-color: #b0c926;
     border-radius: 8px;
-    border: solid rgb(255, 196, 0) 3px;
+    border: solid #b0c926 3px;
     padding: 2px;
     margin-bottom: 8px;
     
