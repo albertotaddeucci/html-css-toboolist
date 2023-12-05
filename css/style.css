@@ -27,6 +27,7 @@ main{
     padding-bottom: 10px;
 }
 
+/* sistemare raggio */
 #contenitore{
     background-color: white;
     border-radius: 16px;
@@ -35,6 +36,8 @@ main{
     margin: auto;
 }
 
+
+/* sistemare colore */
 #pulsanti{
     padding: 10px 30px 10px;
     border-bottom: 2px solid rgb(227, 215, 215);
@@ -58,16 +61,20 @@ main{
     font-size: 0.5em;    
 }
 
+
+/* sistemare checkmark e colore */
 #new-task{
     padding-left: 50px;
     padding-top: 25px;
 }
-
 .sezioni{
     font-weight: bold;
+    margin-bottom: 8px;
 }
+
 .contenuto-sezioni{
     font-size: 0.7em;
+    margin-bottom: 8px;
 }
 
 .editoriale {
@@ -77,5 +84,41 @@ main{
     border-radius: 8px;
     border: solid blue 3px;
     padding: 2px;
+    margin-bottom: 8px;
+    
+}
+#today{
+    padding-left: 50px;
+    padding-top: 15px;
+}
+
+.goals {
+    font-size: 0.5em;
+    color: white;
+    background-color: rgb(255, 0, 217);
+    border-radius: 8px;
+    border: solid rgb(255, 0, 217) 3px;
+    padding: 2px;
+    margin-bottom: 8px;
+    
+}
+.recruiting {
+    font-size: 0.5em;
+    color: white;
+    background-color: rgb(35, 183, 67);
+    border-radius: 8px;
+    border: solid rgb(35, 183, 67) 3px;
+    padding: 2px;
+    margin-bottom: 8px;
+    
+}
+.mobile {
+    font-size: 0.5em;
+    color: white;
+    background-color: rgb(255, 196, 0);
+    border-radius: 8px;
+    border: solid rgb(255, 196, 0) 3px;
+    padding: 2px;
+    margin-bottom: 8px;
     
 }
